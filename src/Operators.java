@@ -16,7 +16,7 @@ public class Operators {
         System.out.println("mul = "+mul+", div =" + div+", mod = "+mod+", add =" + add +", sub = "+sub );
         // shift operators
         int num3 =6;
-        num3 = num3>>2;
+        num3 = num3>>1;
         int num4 = num3<<5;
         System.out.println("num3 = "+num3+", num4 =" + num4);
 
