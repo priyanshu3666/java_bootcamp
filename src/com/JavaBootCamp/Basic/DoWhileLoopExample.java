@@ -1,3 +1,5 @@
+package com.JavaBootCamp.Basic;
+
 public class DoWhileLoopExample {
     public static void main(String[] args) {
         int i=1;

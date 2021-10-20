@@ -1,3 +1,5 @@
+package com.JavaBootCamp.Basic;
+
 public class SwitchExamples {
     public static void main(String[] args) {
         //Example 1

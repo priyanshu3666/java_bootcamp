@@ -1,3 +1,5 @@
+package com.JavaBootCamp.Basic;
+
 public class ForLoopExamples {
     public static void main(String[] args) {
         //simple for loop

@@ -1,3 +1,5 @@
+package com.JavaBootCamp.Basic;
+
 public class Operators {
     public static void main(String[] args) {
         int var;
@@ -48,7 +50,7 @@ public class Operators {
         else
             System.out.println("False conditions");
 
-        //Ternary Operators
+        //Ternary com.JavaBootCamp.Basic.Operators
         int n1 = 5, n2 = 10, max;
         max = (n1 > n2) ? n1 : n2;
         System.out.println("Maximum is = " + max);

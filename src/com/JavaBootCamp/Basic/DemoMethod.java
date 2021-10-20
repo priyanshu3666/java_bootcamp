@@ -1,3 +1,5 @@
+package com.JavaBootCamp.Basic;
+
 public class DemoMethod {
     public int addNumbers(int num1,int num2){
         int res = num1+num2;

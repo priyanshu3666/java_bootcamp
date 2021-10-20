@@ -1,3 +1,5 @@
+package com.JavaBootCamp.Basic;
+
 import java.security.cert.TrustAnchor;
 
 public class DataTypeAndVariable {
@@ -10,7 +12,7 @@ public class DataTypeAndVariable {
         char c= 'A';
         double d= 20d;
         boolean bln = true;
-        String s1 = "Hello";
+        String s1 = "com.JavaBootCamp.Basic.Hello";
          System.out.println(b+" "+s+" "+i+" "+long_var+" "+f+" "+c+" "+d+" "+ bln +" "+s1);
     }
 }
