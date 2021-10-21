@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming;
+package com.JavaBootCamp.ObjectOrientedProgramming.Basic;
 
 public class MyThisKeywordImplementation {
     public static void main(String[] args) {

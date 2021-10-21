@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming;
+package com.JavaBootCamp.ObjectOrientedProgramming.Basic;
 
 public class DemoMethod {
     public int addNumbers(int num1,int num2){

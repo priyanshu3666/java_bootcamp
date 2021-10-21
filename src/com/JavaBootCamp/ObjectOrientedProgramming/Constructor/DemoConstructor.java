@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming;
+package com.JavaBootCamp.ObjectOrientedProgramming.Constructor;
 
 public class DemoConstructor {
     DemoConstructor() {

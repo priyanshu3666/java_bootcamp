@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming;
+package com.JavaBootCamp.ObjectOrientedProgramming.Basic;
 
 public class MyStaticImplementation {
     static String college = "ITS";//static variable
