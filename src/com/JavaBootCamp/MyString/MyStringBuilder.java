@@ -1,12 +1,15 @@
 package com.JavaBootCamp.MyString;
 
-public class MyStringBuffer {
+public class MyStringBuilder {
     public static void main(String[] args) {
-        StringBuffer sb=new StringBuffer("Hello ");
-        //inserting
+        StringBuilder sb=new StringBuilder("Hello ");
+        //append
+        sb.append("Java");//now original string is changed
+        System.out.println(sb);
+        //insert
         sb.insert(1,"Java");//now original string is changed
         System.out.println(sb);
-        //replacing
+        //replace
         sb.replace(1,3,"Java");
         System.out.println(sb);
         //delete
@@ -25,8 +28,5 @@ public class MyStringBuffer {
         System.out.println("Before ensuring the capacity :"+ sb.capacity());
         sb.ensureCapacity(50);
         System.out.println("After ensuring the capacity :"+sb.capacity());
-        //append
-        sb.append("Priyanshu");
-        System.out.println(sb);
     }
 }
