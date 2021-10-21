@@ -1,4 +1,4 @@
-package com.JavaBootCamp.Arrays;
+package com.JavaBootCamp.MyArrays;
 
 public class AnonymousArray {
     //creating a method which receives an array as a parameter

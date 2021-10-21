@@ -1,4 +1,4 @@
-package com.JavaBootCamp.Arrays;
+package com.JavaBootCamp.MyArrays;
 
 public class DuplicateElement {
     public static void main(String[] args) {
