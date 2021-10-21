@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming.Inheritence;
+package com.JavaBootCamp.ObjectOrientedProgramming.Inheritance;
 
 public class MyHierarchicalInhertance {
     public static void main(String[] args) {
