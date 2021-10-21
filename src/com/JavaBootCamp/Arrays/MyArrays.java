@@ -1,6 +1,6 @@
 package com.JavaBootCamp.Arrays;
 
-public class Arrays {
+public class MyArrays {
     static void min(int[] arr){
         int min=arr[0];
         for(int i=1;i<arr.length;i++)
