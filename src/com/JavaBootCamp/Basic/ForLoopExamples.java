@@ -23,7 +23,7 @@ public class ForLoopExamples {
             System.out.println();
         }
         // For each loop
-        int arr[]={12,23,44,56,78};
+        int[] arr ={12,23,44,56,78};
         for(int num:arr) {
             System.out.println(num);
         }
