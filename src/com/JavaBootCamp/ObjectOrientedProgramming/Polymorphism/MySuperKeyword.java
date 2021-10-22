@@ -10,7 +10,7 @@ class Animal{
     Animal(){System.out.println("animal is created");}
     void eat(){System.out.println("eating...");}
 }
-class Dog extends Animal{
+class Dog extends Animal {
     Dog(){
         super();    //  invoking parent class constructor
         System.out.println("dog is created");
