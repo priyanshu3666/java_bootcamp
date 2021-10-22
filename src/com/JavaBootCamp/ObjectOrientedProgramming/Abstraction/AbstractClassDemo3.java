@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming.AbstractClass;
+package com.JavaBootCamp.ObjectOrientedProgramming.Abstraction;
 
 public class AbstractClassDemo3 {
     public static void main(String args[]){
