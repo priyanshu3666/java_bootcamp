@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming.Inheritance;
+package com.JavaBootCamp.ObjectOrientedProgramming.Polymorphism;
 
 public class PolymorphismDemo {
     public static void main(String[] args) {

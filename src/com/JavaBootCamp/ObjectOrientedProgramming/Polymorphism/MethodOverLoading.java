@@ -1,4 +1,4 @@
-package com.JavaBootCamp.ObjectOrientedProgramming;
+package com.JavaBootCamp.ObjectOrientedProgramming.Polymorphism;
 
 public class MethodOverLoading {
     public void display(int x){
