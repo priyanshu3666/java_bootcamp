@@ -5,6 +5,7 @@ public class MyThread2 implements Runnable
     public void run()
     {
         System.out.println("Now the thread is running ...");
+        System.out.println(Thread.currentThread().getName());
     }
 
     public static void main(String[] args)
